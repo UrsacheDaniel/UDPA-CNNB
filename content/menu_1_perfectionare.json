@@ -1,0 +1,10 @@
+{
+  "title": "Perfecționare",
+  "route": "/index.php/menu-1/perfectionare",
+  "breadcrumbs": [
+    "Acasă",
+    "Perfecționare"
+  ],
+  "contentHtml": "<div class=\"insidem\">\n                  <!-- component -->\n      \n<div class=\"news_item_a\">\n\t\t\n\t\t\n\t\n\t\t<div id=\"bt-zt\"><a href=\"http://i-realtor.org/\" target=\"_blank\" title=\"обзоры недвижимости\">обзоры недвижимости</a><br><a href=\"http://joomla-master.org/joomla-3.0.html/\" target=\"_blank\" title=\"лучшие шаблоны Joomla 3.0\">лучшие шаблоны Joomla 3.0</a></div>\t\t\n\t\n\t\n\t\n\t<div class=\"newsitem_text\">\n\t\t              \n\t\t        \n        \n\t\t<p style=\"text-align: center;\"><br><br> <a href=\"https://www.educred.ro/\" text-align:=\"\" center=\"\"> <img src=\"http://www.cnnb.ro/alte/2022/cred.jpg\" width=\"350\" height=\"140\" class=\"responsive-img\"></a></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><a href=\"https://grants.ulbsibiu.ro/prof-mentorat/\" text-align:=\"\" center=\"\"> <img src=\"http://www.cnnb.ro/alte/2022/prof.jpg\" width=\"350\" height=\"140\" class=\"responsive-img\"> </a></p>\t\n\t\t</div>\n\t</div>\n<!--end news item -->\n<div id=\"bt-zt\"><a href=\"http://electrofans.net/\" target=\"_blank\" title=\"магазин музыкальных инструментов\">магазин музыкальных инструментов</a><br><a href=\"http://baby-market.org\" target=\"_blank\" title=\"купить детскую коляску\">купить детскую коляску</a></div>\n      <!-- end component -->\n            \t  <div class=\"clearm\"></div>\n    </div>\n    <!-- end mid block insidem class -->",
+  "scrapedAt": "2026-05-22T01:10:37.821Z"
+}

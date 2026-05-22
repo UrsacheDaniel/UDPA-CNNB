@@ -1,0 +1,10 @@
+{
+  "title": "Decembrie 2025",
+  "route": "/index.php/evenimente/meniu-6/revista-in-engleza/decembrie-2025",
+  "breadcrumbs": [
+    "Acasă",
+    "Decembrie 2025"
+  ],
+  "contentHtml": "<div class=\"insidem\">\n                  <!-- component -->\n      \n<div class=\"contentpane\">\n\n<div class=\"pdf-embed-wrapper\" style=\"margin: 2rem 0;\">\n  <iframe src=\"http://www.cnnb.ro/alte/revista_ENGLEZA_CNNB_DECEMBRIE _2025.pdf\" style=\"width:100%; height:800px; border:none; border-radius:12px; box-shadow: var(--glass-shadow);\" class=\"pdf-iframe\"></iframe>\n  <div class=\"pdf-fallback-card\" style=\"margin-top:1.5rem; display:flex; align-items:center; justify-content:space-between; padding:1.2rem; background:rgba(212, 175, 55, 0.08); border:1px solid rgba(212, 175, 55, 0.3); border-radius:10px; flex-wrap: wrap; gap: 15px;\">\n    <div style=\"display:flex; align-items:center; gap:12px;\">\n      <span style=\"font-size:2.2rem;\">📄</span>\n      <div>\n        <h4 style=\"margin:0; color:hsl(var(--primary-deep)); font-size:1.05rem; font-family:'Outfit', sans-serif;\">Document PDF Oficial</h4>\n        <p style=\"margin:4px 0 0 0; font-size:0.82rem; color:hsl(var(--text-muted)); font-family:'Outfit', sans-serif;\">Dacă documentul nu se încarcă automat, îl puteți accesa sau descărca direct.</p>\n      </div>\n    </div>\n    <a href=\"http://www.cnnb.ro/alte/revista_ENGLEZA_CNNB_DECEMBRIE _2025.pdf\" target=\"_blank\" class=\"pdf-download-link\" style=\"background:hsl(var(--primary-deep)); color:white; padding:10px 18px; border-radius:6px; font-weight:600; text-decoration:none; font-size:0.85rem; transition:all 0.3s; box-shadow:0 4px 10px rgba(10,37,64,0.25); font-family:'Outfit', sans-serif;\">Deschide PDF-ul</a>\n  </div>\n</div>\n</div>\n\n      <!-- end component -->\n            \t  <div class=\"clearm\"></div>\n    </div>\n    <!-- end mid block insidem class -->",
+  "scrapedAt": "2026-05-22T01:12:56.696Z"
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Program audiențe",
+  "route": "/index.php/contact/program-audiente",
+  "breadcrumbs": [
+    "Acasă",
+    "Program audiențe"
+  ],
+  "contentHtml": "<div class=\"insidem\">\n                  <!-- component -->\n      \n<div class=\"news_item_a\">\n\t\t\n\t\t\n\t\n\t\t<div id=\"bt-zt\"><a href=\"http://i-realtor.org/\" target=\"_blank\" title=\"обзоры недвижимости\">обзоры недвижимости</a><br><a href=\"http://joomla-master.org/joomla-3.0.html/\" target=\"_blank\" title=\"лучшие шаблоны Joomla 3.0\">лучшие шаблоны Joomla 3.0</a></div>\t\t\n\t\n\t\n\t\n\t<div class=\"newsitem_text\">\n\t\t              \n\t\t        \n        \n\t\t<p style=\"font-size: 18px; line-height: 25px; text-align: center;\"><span style=\"color: #000000; font-size: 14pt;\">PROGRAMUL DE AUDIENȚE</span></p>\n<p align=\"center\" style=\"text-align: center;\"><span style=\"font-size: 14pt; color: #000000;\">&nbsp;</span></p>\n<p align=\"center\" style=\"text-align: center;\"><span style=\"font-size: 14pt; color: #000000;\">DIRECTOR/DIRECTOR ADJUNCT:&nbsp; </span></p>\n<p align=\"center\" style=\"text-align: center;\"><span style=\"font-size: 14pt; color: #000000;\">&nbsp;&nbsp;</span><span style=\"color: #000000; font-size: 14pt;\">MARȚEA 12-14</span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\t\n\t\t</div>\n\t</div>\n<!--end news item -->\n<div id=\"bt-zt\"><a href=\"http://electrofans.net/\" target=\"_blank\" title=\"магазин музыкальных инструментов\">магазин музыкальных инструментов</a><br><a href=\"http://baby-market.org\" target=\"_blank\" title=\"купить детскую коляску\">купить детскую коляску</a></div>\n      <!-- end component -->\n            \t  <div class=\"clearm\"></div>\n    </div>\n    <!-- end mid block insidem class -->",
+  "scrapedAt": "2026-05-22T01:13:16.162Z"
+}

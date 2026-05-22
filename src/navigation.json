@@ -1,0 +1,1285 @@
+[
+  {
+    "title": "DESPRE NOI",
+    "items": [
+      {
+        "title": "Istoric",
+        "route": "/index.php/acasa/istoric"
+      },
+      {
+        "title": "Nume",
+        "route": "/index.php/acasa/date"
+      },
+      {
+        "title": "Personalităţi",
+        "route": "/index.php/acasa/personalitati",
+        "children": [
+          {
+            "title": "Membri ai Academiei Române",
+            "route": "/index.php/acasa/personalitati/membri-ai-academiei-romane"
+          },
+          {
+            "title": "Membri ai altor academii",
+            "route": "/index.php/acasa/personalitati/membri-ai-altor-academii"
+          },
+          {
+            "title": "Oameni de ştiinţă",
+            "route": "/index.php/acasa/personalitati/oameni-de-stiinta"
+          },
+          {
+            "title": "Alte personalităţi",
+            "route": "/index.php/acasa/personalitati/alte-personalitati"
+          }
+        ]
+      },
+      {
+        "title": "Misiune",
+        "route": "/index.php/acasa/misiune"
+      },
+      {
+        "title": "Directorii şcolii",
+        "route": "/index.php/acasa/toti-directorii"
+      },
+      {
+        "title": "Profesori 1863-2013",
+        "route": "/index.php/acasa/profesori-1863-2013"
+      },
+      {
+        "title": "Şefi de promoţie",
+        "route": "/index.php/acasa/sefi-de-promotie"
+      }
+    ]
+  },
+  {
+    "title": "PERSONAL",
+    "items": [
+      {
+        "title": "Echipa de conducere",
+        "route": "/index.php/menu-1/directori-actuali"
+      },
+      {
+        "title": "Programul directorilor",
+        "route": "/index.php/menu-1/programul-directorilor"
+      },
+      {
+        "title": "CADRE DIDACTICE",
+        "route": "/index.php/menu-1/menu-1x1",
+        "children": [
+          {
+            "title": "Limbă şi comunicare",
+            "route": "/index.php/menu-1/menu-1x1/limba-si-comunicare",
+            "children": [
+              {
+                "title": "Limba şi literatura română",
+                "route": "/index.php/menu-1/menu-1x1/limba-si-comunicare/meniu-complex-fara-descriere-1"
+              },
+              {
+                "title": "Limba engleză",
+                "route": "/index.php/menu-1/menu-1x1/limba-si-comunicare/limba-engleza"
+              },
+              {
+                "title": "Limba franceză",
+                "route": "/index.php/menu-1/menu-1x1/limba-si-comunicare/limba-franceza"
+              },
+              {
+                "title": "Limba germană",
+                "route": "/index.php/menu-1/menu-1x1/limba-si-comunicare/limba-germana"
+              },
+              {
+                "title": "Limba latină",
+                "route": "/index.php/menu-1/menu-1x1/limba-si-comunicare/limba-latina"
+              }
+            ]
+          },
+          {
+            "title": "Matematică şi Ştiinţe ale naturii",
+            "route": "/index.php/menu-1/menu-1x1/matematica-si-stiinte-ale-naturii",
+            "children": [
+              {
+                "title": "Matematică",
+                "route": "/index.php/menu-1/menu-1x1/matematica-si-stiinte-ale-naturii/matematica"
+              },
+              {
+                "title": "Fizică",
+                "route": "/index.php/menu-1/menu-1x1/matematica-si-stiinte-ale-naturii/fizica"
+              },
+              {
+                "title": "Chimie",
+                "route": "/index.php/menu-1/menu-1x1/matematica-si-stiinte-ale-naturii/chimie"
+              },
+              {
+                "title": "Biologie",
+                "route": "/index.php/menu-1/menu-1x1/matematica-si-stiinte-ale-naturii/biologie"
+              }
+            ]
+          },
+          {
+            "title": "Om şi societate",
+            "route": "/index.php/menu-1/menu-1x1/meniu-complex-fara-descriere-2",
+            "children": [
+              {
+                "title": "Istorie",
+                "route": "/index.php/menu-1/menu-1x1/meniu-complex-fara-descriere-2/istorie"
+              },
+              {
+                "title": "Geografie",
+                "route": "/index.php/menu-1/menu-1x1/meniu-complex-fara-descriere-2/geografie"
+              },
+              {
+                "title": "Socio-umane",
+                "route": "/index.php/menu-1/menu-1x1/meniu-complex-fara-descriere-2/socio-umane"
+              },
+              {
+                "title": "Religie",
+                "route": "/index.php/menu-1/menu-1x1/meniu-complex-fara-descriere-2/religie"
+              }
+            ]
+          },
+          {
+            "title": "Tehnologii",
+            "route": "/index.php/menu-1/menu-1x1/tehnologii",
+            "children": [
+              {
+                "title": "Informatică",
+                "route": "/index.php/menu-1/menu-1x1/tehnologii/informatica"
+              },
+              {
+                "title": "Educaţie tehnologică",
+                "route": "/index.php/menu-1/menu-1x1/tehnologii/educatie-tehnologica"
+              }
+            ]
+          },
+          {
+            "title": "Arte",
+            "route": "/index.php/menu-1/menu-1x1/meniu-complex-fara-descriere-4",
+            "children": [
+              {
+                "title": "Educaţie plastică",
+                "route": "/index.php/menu-1/menu-1x1/meniu-complex-fara-descriere-4/educatie-plastica"
+              },
+              {
+                "title": "Educaţie muzicală",
+                "route": "/index.php/menu-1/menu-1x1/meniu-complex-fara-descriere-4/educatie-muzicala"
+              }
+            ]
+          },
+          {
+            "title": "Educaţie fizică şi sport",
+            "route": "/index.php/menu-1/menu-1x1/educatie-fizica-si-sport"
+          }
+        ]
+      },
+      {
+        "title": "CADRE DIDACTICE AUXILIARE",
+        "route": "/index.php/menu-1/contacts"
+      },
+      {
+        "title": "Perfecționare",
+        "route": "/index.php/menu-1/perfectionare"
+      },
+      {
+        "title": "Încadrare",
+        "route": "/index.php/menu-1/incadrare"
+      },
+      {
+        "title": "Organigrama",
+        "route": "/index.php/menu-1/organigrama"
+      },
+      {
+        "title": "Comitetul de părinți",
+        "route": "/index.php/menu-1/comitetul-de-parinti"
+      }
+    ]
+  },
+  {
+    "title": "ELEVI",
+    "items": [
+      {
+        "title": "Statistică",
+        "route": "/index.php/login/menu-2x1"
+      },
+      {
+        "title": "Formaţiuni de studiu",
+        "route": "/index.php/login/menu-2x2"
+      },
+      {
+        "title": "ORAR ELEVI",
+        "route": "/index.php/login/orar-elevi"
+      },
+      {
+        "title": "Orar profesori",
+        "route": "/index.php/login/orar-profesori"
+      },
+      {
+        "title": "DIRIGENŢIE",
+        "route": "/index.php/login/dirigentie",
+        "children": [
+          {
+            "title": "Clasa şi dirigintele",
+            "route": "/index.php/login/dirigentie/clasa-si-diriginte"
+          },
+          {
+            "title": "Planificare întâlniri cu părinții",
+            "route": "/index.php/login/dirigentie/planificare-intalniri-cu-parintii"
+          }
+        ]
+      },
+      {
+        "title": "Activități extrașcolare",
+        "route": "http://www.cnnb.ro"
+      },
+      {
+        "title": "Platforma informatică",
+        "route": "http://www.cnnb.ro",
+        "children": [
+          {
+            "title": "Wordpress Clasa 9",
+            "route": "http://cnnbclasa9.wordpress.com/"
+          },
+          {
+            "title": "Math in english",
+            "route": "http://www.cnnb.ro/me/"
+          },
+          {
+            "title": "Maratonul proiectelor informatice",
+            "route": "http://www.cnnb.ro/maraton/"
+          },
+          {
+            "title": "Blogul de chimie",
+            "route": "http://www.cnnb.ro/blog_chimie"
+          },
+          {
+            "title": "Locuiești sau aparții locului?",
+            "route": "/index.php/login/platforma-informatica/locuiesti-sau-apartii-locului"
+          },
+          {
+            "title": "Proiect EUROSCOLA",
+            "route": "http://www.cnnb.ro/euroscola/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "REZULTATE",
+    "items": [
+      {
+        "title": "Simulări BAC și EN8",
+        "route": "/index.php/sample-sites/simulari-bac-si-en8"
+      },
+      {
+        "title": "Situația la învățătură",
+        "route": "/index.php/sample-sites/shop"
+      },
+      {
+        "title": "OLIMPIADE",
+        "route": "/index.php/sample-sites/parks",
+        "children": [
+          {
+            "title": "2025",
+            "route": "/index.php/sample-sites/parks/2025"
+          },
+          {
+            "title": "2023",
+            "route": "/index.php/sample-sites/parks/2023"
+          },
+          {
+            "title": "2022",
+            "route": "/index.php/sample-sites/parks/2021"
+          },
+          {
+            "title": "2019",
+            "route": "/index.php/sample-sites/parks/2019"
+          },
+          {
+            "title": "2016",
+            "route": "/index.php/sample-sites/parks/2016"
+          },
+          {
+            "title": "2015",
+            "route": "/index.php/sample-sites/parks/rezultate-la-olimpiade-2015"
+          },
+          {
+            "title": "2014",
+            "route": "/index.php/sample-sites/parks/2013-2014"
+          },
+          {
+            "title": "2013",
+            "route": "/index.php/sample-sites/parks/2012-2013"
+          },
+          {
+            "title": "2012",
+            "route": "/index.php/sample-sites/parks/2011-2012"
+          },
+          {
+            "title": "2011",
+            "route": "/index.php/sample-sites/parks/2010-2011"
+          },
+          {
+            "title": "2010",
+            "route": "/index.php/sample-sites/parks/2010"
+          }
+        ]
+      },
+      {
+        "title": "Diplome",
+        "route": "/index.php/sample-sites/diplome"
+      },
+      {
+        "title": "EXAMENE NAŢIONALE",
+        "route": "/index.php/sample-sites/examene-nationale",
+        "children": [
+          {
+            "title": "2015",
+            "route": "/index.php/sample-sites/examene-nationale/2015"
+          },
+          {
+            "title": "2014",
+            "route": "/index.php/sample-sites/examene-nationale/2014"
+          },
+          {
+            "title": "2013",
+            "route": "/index.php/sample-sites/examene-nationale/2013"
+          }
+        ]
+      },
+      {
+        "title": "CONCURSURI INTERNAȚIONALE",
+        "route": "/index.php/sample-sites/concursuri-internationale",
+        "children": [
+          {
+            "title": "CONCURS INTERNAȚIONAL DE TRADUCERI",
+            "route": "/index.php/sample-sites/concursuri-internationale/concurs-international-de-traduceri"
+          },
+          {
+            "title": "HUMAN RIGHTS INTERNATIONAL COMPETITION",
+            "route": "/index.php/sample-sites/concursuri-internationale/human-rights-international-competition",
+            "children": [
+              {
+                "title": "ORGANISATION PARTICIPATION RULES EVALUATION",
+                "route": "/index.php/sample-sites/concursuri-internationale/human-rights-international-competition/organisation-participation-rules-evaluation"
+              },
+              {
+                "title": "EXAM QUESTIONS",
+                "route": "/index.php/sample-sites/concursuri-internationale/human-rights-international-competition/exam-questions"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "CONCURSURI NAŢIONALE",
+        "route": "/index.php/sample-sites/concursuri-nationale",
+        "children": [
+          {
+            "title": "Comunicări științifice biologie 2023",
+            "route": "/index.php/sample-sites/concursuri-nationale/comunicari-stiintifice-biologie-2023"
+          },
+          {
+            "title": "ION BARBU - DAN BARBILIAN",
+            "route": "/index.php/sample-sites/concursuri-nationale/ion-barbu-dan-barbilian"
+          },
+          {
+            "title": "LUMINA MATH",
+            "route": "/index.php/sample-sites/concursuri-nationale/lumina-math"
+          },
+          {
+            "title": "Discurs Public",
+            "route": "/index.php/sample-sites/concursuri-nationale/discurs-public"
+          }
+        ]
+      },
+      {
+        "title": "CONCURSURI INTERJUDEŢENE",
+        "route": "/index.php/sample-sites/concursuri-interjudetene",
+        "children": [
+          {
+            "title": "Concursul texte multimodale",
+            "route": "/index.php/sample-sites/concursuri-interjudetene/concursul-texte-multimodale"
+          },
+          {
+            "title": "VICTOR VALCOVICI",
+            "route": "/index.php/sample-sites/concursuri-interjudetene/victor-valcovici",
+            "children": [
+              {
+                "title": "Despre concurs",
+                "route": "/index.php/sample-sites/concursuri-interjudetene/victor-valcovici/despre-concurs"
+              },
+              {
+                "title": "2016",
+                "route": "/index.php/sample-sites/concursuri-interjudetene/victor-valcovici/2016",
+                "children": [
+                  {
+                    "title": "Rezultate",
+                    "route": "/index.php/sample-sites/concursuri-interjudetene/victor-valcovici/2016/rezultate"
+                  },
+                  {
+                    "title": "Enunțuri",
+                    "route": "/index.php/sample-sites/concursuri-interjudetene/victor-valcovici/2016/enunturi"
+                  },
+                  {
+                    "title": "Soluții",
+                    "route": "/index.php/sample-sites/concursuri-interjudetene/victor-valcovici/2016/solutii"
+                  }
+                ]
+              },
+              {
+                "title": "2015",
+                "route": "/index.php?Itemid=662",
+                "children": [
+                  {
+                    "title": "SUBIECTE",
+                    "route": "/index.php/sample-sites/concursuri-interjudetene/victor-valcovici/2015/subiecte"
+                  },
+                  {
+                    "title": "Soluții",
+                    "route": "/index.php/sample-sites/concursuri-interjudetene/victor-valcovici/2015/solutii"
+                  }
+                ]
+              },
+              {
+                "title": "2014",
+                "route": "/index.php/sample-sites/concursuri-interjudetene/victor-valcovici/2014",
+                "children": [
+                  {
+                    "title": "REZULTATE",
+                    "route": "/index.php/sample-sites/concursuri-interjudetene/victor-valcovici/2014/rezultate"
+                  }
+                ]
+              },
+              {
+                "title": "2013",
+                "route": "/index.php/sample-sites/concursuri-interjudetene/victor-valcovici/2013",
+                "children": [
+                  {
+                    "title": "SUBIECTE",
+                    "route": "/index.php/sample-sites/concursuri-interjudetene/victor-valcovici/2013/subiecte"
+                  },
+                  {
+                    "title": "SOLUTII",
+                    "route": "/index.php/sample-sites/concursuri-interjudetene/victor-valcovici/2013/solutii"
+                  },
+                  {
+                    "title": "rezultate",
+                    "route": "/index.php/sample-sites/concursuri-interjudetene/victor-valcovici/2013/rezultate"
+                  }
+                ]
+              },
+              {
+                "title": "2012",
+                "route": "/index.php/sample-sites/concursuri-interjudetene/victor-valcovici/2012"
+              }
+            ]
+          },
+          {
+            "title": "MIHAIL SEBASTIAN",
+            "route": "/index.php/sample-sites/concursuri-interjudetene/mihail-sebastian",
+            "children": [
+              {
+                "title": "2016",
+                "route": "/index.php?Itemid=690",
+                "children": [
+                  {
+                    "title": "Rezultate",
+                    "route": "/index.php/sample-sites/concursuri-interjudetene/mihail-sebastian/2016/rezultate"
+                  }
+                ]
+              },
+              {
+                "title": "2015",
+                "route": "/index.php?Itemid=668",
+                "children": [
+                  {
+                    "title": "SUBIECTE",
+                    "route": "/index.php/sample-sites/concursuri-interjudetene/mihail-sebastian/2015/subiecte"
+                  }
+                ]
+              },
+              {
+                "title": "2014",
+                "route": "/index.php/sample-sites/concursuri-interjudetene/mihail-sebastian/2014",
+                "children": [
+                  {
+                    "title": "REZULTATE",
+                    "route": "/index.php/sample-sites/concursuri-interjudetene/mihail-sebastian/2014/rezultate"
+                  }
+                ]
+              },
+              {
+                "title": "2013",
+                "route": "/index.php/sample-sites/concursuri-interjudetene/mihail-sebastian/2013",
+                "children": [
+                  {
+                    "title": "SUBIECTE",
+                    "route": "/index.php/sample-sites/concursuri-interjudetene/mihail-sebastian/2013/subiecte"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "CRISTIAN CALUDE",
+            "route": "/index.php/sample-sites/concursuri-interjudetene/cristian-calude"
+          },
+          {
+            "title": "PETRU MOROSAN-TRIDENT",
+            "route": "/index.php/sample-sites/concursuri-interjudetene/petru-morosan-trident"
+          },
+          {
+            "title": "CONCURS PE TEMA DREPTURILOR OMULUI",
+            "route": "/index.php/sample-sites/concursuri-interjudetene/concurs-pe-tema-drepturilor-omului"
+          }
+        ]
+      },
+      {
+        "title": "Concursuri regionale",
+        "route": "/index.php?Itemid=654",
+        "children": [
+          {
+            "title": "CONCURSUL DE TRADUCERI „CNNB_150”",
+            "route": "/index.php/sample-sites/concursuri-regionale/concursul-de-traduceri-cnnb-150-editia-a-ii-a",
+            "children": [
+              {
+                "title": "Editia a XII-a  2025",
+                "route": "/index.php/sample-sites/concursuri-regionale/concursul-de-traduceri-cnnb-150-editia-a-ii-a/editia-a-xii-a-2025"
+              },
+              {
+                "title": "Editia a XI-a  2024",
+                "route": "/index.php/sample-sites/concursuri-regionale/concursul-de-traduceri-cnnb-150-editia-a-ii-a/editia-a-xi-a-2024"
+              },
+              {
+                "title": "Editia a X-a  2023",
+                "route": "/index.php/sample-sites/concursuri-regionale/concursul-de-traduceri-cnnb-150-editia-a-ii-a/editia-a-x-a-2023"
+              },
+              {
+                "title": "Editia a IX-a  2022",
+                "route": "/index.php/sample-sites/concursuri-regionale/concursul-de-traduceri-cnnb-150-editia-a-ii-a/editia-a-ix-a-2022"
+              },
+              {
+                "title": "Editia a VIII-a  2021",
+                "route": "/index.php/sample-sites/concursuri-regionale/concursul-de-traduceri-cnnb-150-editia-a-ii-a/editia-a-viii-a-2020"
+              },
+              {
+                "title": "Editia a VII-a  2019",
+                "route": "/index.php/sample-sites/concursuri-regionale/concursul-de-traduceri-cnnb-150-editia-a-ii-a/editia-a-vii-a-2019"
+              },
+              {
+                "title": "Editia a VI-a  2018",
+                "route": "/index.php/sample-sites/concursuri-regionale/concursul-de-traduceri-cnnb-150-editia-a-ii-a/editia-a-vi-a-2018"
+              },
+              {
+                "title": "Editia a V-a  2017",
+                "route": "/index.php/sample-sites/concursuri-regionale/concursul-de-traduceri-cnnb-150-editia-a-ii-a/editia-a-v-a-2017"
+              },
+              {
+                "title": "Editia a IV-a  2016",
+                "route": "/index.php/sample-sites/concursuri-regionale/concursul-de-traduceri-cnnb-150-editia-a-ii-a/editia-a-iv-a-2016"
+              },
+              {
+                "title": "Editia a III-a  2015",
+                "route": "/index.php/sample-sites/concursuri-regionale/concursul-de-traduceri-cnnb-150-editia-a-ii-a/editia-a-iii-a-2015"
+              },
+              {
+                "title": "Editia a II-a  2014",
+                "route": "/index.php/sample-sites/concursuri-regionale/concursul-de-traduceri-cnnb-150-editia-a-ii-a/editia-a-ii-a-2014"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Concursuri locale",
+        "route": "/index.php?Itemid=665",
+        "children": [
+          {
+            "title": "Micii Bălcești",
+            "route": "/index.php?Itemid=666",
+            "children": [
+              {
+                "title": "Ianuarie 2026",
+                "route": "/index.php/sample-sites/concursuri-locale/micii-balcesti/ianuarie-2026"
+              },
+              {
+                "title": "Ianuarie 2025",
+                "route": "/index.php/sample-sites/concursuri-locale/micii-balcesti/ianuarie-2025"
+              },
+              {
+                "title": "Decembrie 2023",
+                "route": "/index.php/sample-sites/concursuri-locale/micii-balcesti/decembrie-2023"
+              },
+              {
+                "title": "Mai 2023",
+                "route": "/index.php/sample-sites/concursuri-locale/micii-balcesti/2023"
+              },
+              {
+                "title": "2022",
+                "route": "/index.php/sample-sites/concursuri-locale/micii-balcesti/2022"
+              },
+              {
+                "title": "2016",
+                "route": "/index.php?Itemid=692",
+                "children": [
+                  {
+                    "title": "Rezultate",
+                    "route": "/index.php/sample-sites/concursuri-locale/micii-balcesti/2016/rezultate"
+                  },
+                  {
+                    "title": "Subiecte",
+                    "route": "/index.php/sample-sites/concursuri-locale/micii-balcesti/2016/subiecte"
+                  }
+                ]
+              },
+              {
+                "title": "2015",
+                "route": "/index.php?Itemid=693",
+                "children": [
+                  {
+                    "title": "SUBIECTE",
+                    "route": "/index.php/sample-sites/concursuri-locale/micii-balcesti/2015/subiecte"
+                  },
+                  {
+                    "title": "Soluții",
+                    "route": "/index.php/sample-sites/concursuri-locale/micii-balcesti/2015/solutii"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Admitere clasa a V-a",
+        "route": "/index.php/sample-sites/admitere-clasa-a-va",
+        "children": [
+          {
+            "title": "2025",
+            "route": "/index.php/sample-sites/admitere-clasa-a-va/2025"
+          },
+          {
+            "title": "2024",
+            "route": "/index.php/sample-sites/admitere-clasa-a-va/2024"
+          },
+          {
+            "title": "2015",
+            "route": "/index.php?Itemid=698",
+            "children": [
+              {
+                "title": "Rezultate",
+                "route": "/index.php/sample-sites/admitere-clasa-a-va/2015/rezultate"
+              }
+            ]
+          },
+          {
+            "title": "2014",
+            "route": "/index.php/sample-sites/admitere-clasa-a-va/2014",
+            "children": [
+              {
+                "title": "Limba Română",
+                "route": "/index.php/sample-sites/admitere-clasa-a-va/2014/limba-romana"
+              },
+              {
+                "title": "Matematică",
+                "route": "/index.php/sample-sites/admitere-clasa-a-va/2014/matematica"
+              },
+              {
+                "title": "Rezultate",
+                "route": "/index.php/sample-sites/admitere-clasa-a-va/2014/rezultate"
+              }
+            ]
+          },
+          {
+            "title": "2013",
+            "route": "/index.php/sample-sites/admitere-clasa-a-va/2013",
+            "children": [
+              {
+                "title": "Limba Română",
+                "route": "/index.php/sample-sites/admitere-clasa-a-va/2013/limba-romana"
+              },
+              {
+                "title": "Matematică",
+                "route": "/index.php/sample-sites/admitere-clasa-a-va/2013/matematica"
+              },
+              {
+                "title": "Rezultate",
+                "route": "/index.php/sample-sites/admitere-clasa-a-va/2013/elevii-admisi"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Concursuri  „150 ani”",
+        "route": "/index.php/sample-sites/concursuri-150-ani",
+        "children": [
+          {
+            "title": "Concurs de matematică",
+            "route": "/index.php/sample-sites/concursuri-150-ani/concurs-de-matematica-cnnb-150"
+          },
+          {
+            "title": "Concurs de informatică",
+            "route": "/index.php/sample-sites/concursuri-150-ani/concurs-de-informatica"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "PARTENERIATE",
+    "items": [
+      {
+        "title": "Proiect Eco Provocarea",
+        "route": "/index.php/site-administrator/proiect-eco-provocarea"
+      },
+      {
+        "title": "Bilanț parteneriate",
+        "route": "/index.php/site-administrator/bilant-parteneriate",
+        "children": [
+          {
+            "title": "2023-2024",
+            "route": "/index.php/site-administrator/bilant-parteneriate/2023-2024"
+          },
+          {
+            "title": "2022-2023",
+            "route": "/index.php/site-administrator/bilant-parteneriate/2022-2023"
+          }
+        ]
+      },
+      {
+        "title": "Educație juridică",
+        "route": "/index.php/site-administrator/educatie-juridica"
+      },
+      {
+        "title": "Earth Science Festival",
+        "route": "https://earthsciencefestival.ro/"
+      },
+      {
+        "title": "Campania „FII LIBER !”",
+        "route": "/index.php/site-administrator/campania-fii-liber"
+      },
+      {
+        "title": "Proiect EPAS",
+        "route": "http://www.cnnb.ro/alte/proiect_epas/jocuri_didactice_ro.htm"
+      },
+      {
+        "title": "PROIECTE INTERNAŢIONALE",
+        "route": "/index.php/site-administrator/plan-managerial",
+        "children": [
+          {
+            "title": "New Technologies, New Worlds",
+            "route": "https://sites.google.com/view/newtechnologieserasmus/main"
+          },
+          {
+            "title": "Digital Mahale",
+            "route": "/index.php/site-administrator/plan-managerial/digital-mahale"
+          },
+          {
+            "title": "SAFETY IS THE NEW LOOK",
+            "route": "/index.php/site-administrator/plan-managerial/safety-is-the-new-look"
+          },
+          {
+            "title": "Proiect Euroscola",
+            "route": "/index.php/site-administrator/plan-managerial/proiect-euroscola"
+          },
+          {
+            "title": "Romanian Brain Bee",
+            "route": "http://www.romanianbrainbee.com/"
+          },
+          {
+            "title": "EUSid",
+            "route": "http://www.cnnb.ro/eusid/"
+          },
+          {
+            "title": "Eco-Hiking Europe",
+            "route": "http://ecohikingeurope.webnode.cz/"
+          },
+          {
+            "title": "P.R.I.M.E",
+            "route": "http://www.cnnb.ro/proiect_prime/"
+          },
+          {
+            "title": "I.A.M. CREATIVE",
+            "route": "/alte/proiecte/iam"
+          },
+          {
+            "title": "EVERYBODY FITS IN",
+            "route": "http://www.comenius-elbohio.org/"
+          },
+          {
+            "title": "W.A.T.E.R.",
+            "route": "/index.php/site-administrator/plan-managerial/w-a-t-e-r"
+          }
+        ]
+      },
+      {
+        "title": "PROIECTE EDUCAŢIONALE NAŢIONALE",
+        "route": "/index.php/site-administrator/proiecte-educationale-nationale"
+      },
+      {
+        "title": "PROIECTE EDUCAŢIONALE REGIONALE",
+        "route": "/index.php/site-administrator/proiecte-educationale-locale"
+      },
+      {
+        "title": "PROIECTE EDUCAŢIONALE LOCALE",
+        "route": "/index.php/site-administrator/regulament-de-ordine-interioara"
+      },
+      {
+        "title": "Certificate Cambridge",
+        "route": "/index.php/site-administrator/atestat-cambridge"
+      },
+      {
+        "title": "Certificare ECDL",
+        "route": "/index.php/site-administrator/certificare-ecdl"
+      }
+    ]
+  },
+  {
+    "title": "LEGISLAŢIE",
+    "items": [
+      {
+        "title": "Autorizații",
+        "route": "/index.php/menu-5/autorizatii"
+      },
+      {
+        "title": "Admitere și examene",
+        "route": "/index.php/menu-5/admitere-si-examene",
+        "children": [
+          {
+            "title": "Evaluare națională clasa 8a",
+            "route": "/index.php/menu-5/admitere-si-examene/evaluare-nationala-clasa-8a"
+          },
+          {
+            "title": "Bacalaureat",
+            "route": "/index.php/menu-5/admitere-si-examene/bacalaureat"
+          },
+          {
+            "title": "Admitere liceu",
+            "route": "/index.php/menu-5/admitere-si-examene/admitere-liceu"
+          },
+          {
+            "title": "Simulări EN8 si BAC",
+            "route": "/index.php/menu-5/admitere-si-examene/simulari-en8-si-bac"
+          },
+          {
+            "title": "Definitivare în învățământ",
+            "route": "/index.php/menu-5/admitere-si-examene/definitivare-in-invatamant"
+          }
+        ]
+      },
+      {
+        "title": "Documente management",
+        "route": "/index.php/menu-5/documente-management"
+      },
+      {
+        "title": "Anunț important",
+        "route": "/index.php/menu-5/anunt-important"
+      },
+      {
+        "title": "Managementul burselor școlare",
+        "route": "/index.php/menu-5/managementul-burselor-scolare"
+      },
+      {
+        "title": "Contabilitate",
+        "route": "/index.php/menu-5/contabilitate"
+      },
+      {
+        "title": "Buget",
+        "route": "/index.php/menu-5/buget"
+      },
+      {
+        "title": "Transparenta venituri legea 153",
+        "route": "/index.php/menu-5/transparenta-venituri-legea-153"
+      },
+      {
+        "title": "Declarații avere și interese",
+        "route": "/index.php/menu-5/declaratii-avere-si-interese"
+      },
+      {
+        "title": "Legea 544 din 2001",
+        "route": "/index.php/menu-5/legea-544-din-2001"
+      },
+      {
+        "title": "Posturi vacante",
+        "route": "/index.php/menu-5/posturi-vacante"
+      },
+      {
+        "title": "Procedura transfer elevi",
+        "route": "/index.php/menu-5/procedura-transfer-elevi"
+      },
+      {
+        "title": "STRUCTURA ANULUI ŞCOLAR",
+        "route": "/index.php/menu-5/structura-anului-scolar"
+      },
+      {
+        "title": "Plan de școlarizare",
+        "route": "/index.php/menu-5/plan-de-scolarizare"
+      },
+      {
+        "title": "Plan de dezvoltare instituțională",
+        "route": "/index.php/menu-5/plan-de-dezvoltare-institutionala"
+      },
+      {
+        "title": "Consiliul de administrație",
+        "route": "/index.php/menu-5/hotarari-ca"
+      },
+      {
+        "title": "Consiliul profesoral",
+        "route": "/index.php/menu-5/consiliul-profesoral"
+      },
+      {
+        "title": "Regulamente interne",
+        "route": "/index.php/menu-5/regulamente-interne",
+        "children": [
+          {
+            "title": "Accesul în CNNB",
+            "route": "/index.php/menu-5/regulamente-interne/accesul-in-cnnb"
+          },
+          {
+            "title": "Accesul în baza sportivă CNNB",
+            "route": "/index.php/menu-5/regulamente-interne/accesul-in-baza-sportiva-cnnb"
+          },
+          {
+            "title": "ROF",
+            "route": "/index.php/menu-5/regulamente-interne/rof"
+          },
+          {
+            "title": "Regulament intern CNNB",
+            "route": "/index.php/menu-5/regulamente-interne/regulament-intern-cnnb"
+          },
+          {
+            "title": "ROIF",
+            "route": "/index.php/menu-5/regulamente-interne/roif"
+          },
+          {
+            "title": "ROFUIP",
+            "route": "/index.php/menu-5/regulamente-interne/rofuip"
+          },
+          {
+            "title": "Statutul elevului",
+            "route": "/index.php/menu-5/regulamente-interne/statutul-elevului"
+          },
+          {
+            "title": "Comisia paritară",
+            "route": "/index.php/menu-5/regulamente-interne/comisia-paritara"
+          }
+        ]
+      },
+      {
+        "title": "CEAC",
+        "route": "/index.php/menu-5/ceac",
+        "children": [
+          {
+            "title": "Atestat ARACIP",
+            "route": "/index.php/menu-5/ceac/atestat-aracip"
+          },
+          {
+            "title": "regulament CEAC",
+            "route": "/index.php/menu-5/ceac/regulament-ceac"
+          },
+          {
+            "title": "Strategia CEAC",
+            "route": "/index.php/menu-5/ceac/strategia-ceac"
+          },
+          {
+            "title": "RAEI",
+            "route": "/index.php/menu-5/ceac/raei"
+          }
+        ]
+      },
+      {
+        "title": "Plan managerial",
+        "route": "/index.php/menu-5/plan-managerial",
+        "children": [
+          {
+            "title": "Plan managerial director",
+            "route": "/index.php/menu-5/plan-managerial/plan-managerial-director"
+          },
+          {
+            "title": "Plan managerial director adjunct",
+            "route": "/index.php/menu-5/plan-managerial/plan-managerial-director-adjunct"
+          }
+        ]
+      },
+      {
+        "title": "SCIM",
+        "route": "/index.php/menu-5/scim"
+      },
+      {
+        "title": "Politica de confidentialitate",
+        "route": "/index.php/menu-5/politica-de-confidentialitate"
+      },
+      {
+        "title": "Raport calitate educație",
+        "route": "/index.php/menu-5/raport-calitate-educatie"
+      },
+      {
+        "title": "Lista categorii documente",
+        "route": "/index.php/menu-5/lista-categorii-documente"
+      },
+      {
+        "title": "Legea învățământului preuniversitar",
+        "route": "/index.php/menu-5/legea-invatamantului-preuniversitar"
+      },
+      {
+        "title": "Sesizare anonimă a cazurilor de violență",
+        "route": "/index.php/menu-5/sesizare-anonima-a-cazurilor-de-violenta"
+      },
+      {
+        "title": "Arhiva",
+        "route": "/index.php/menu-5/arhiva-legislatie"
+      }
+    ]
+  },
+  {
+    "title": "Evenimente",
+    "items": [
+      {
+        "title": "160 DE ANI",
+        "route": "/index.php/evenimente/160-de-ani"
+      },
+      {
+        "title": "Dezbatere educația ne unește",
+        "route": "/index.php/evenimente/dezbatere-educatia-ne-uneste"
+      },
+      {
+        "title": "150 de ani",
+        "route": "/index.php/evenimente/150-de-ani",
+        "children": [
+          {
+            "title": "150 de ani - Mulțumiri",
+            "route": "/index.php/evenimente/150-de-ani/150-de-ani-de-educatie"
+          },
+          {
+            "title": "Programul aniversar",
+            "route": "/index.php/evenimente/150-de-ani/programul-aniversar"
+          },
+          {
+            "title": "Invitaţi",
+            "route": "/index.php/evenimente/150-de-ani/lista-de-invitati"
+          },
+          {
+            "title": "Sponsori ai evenimentului",
+            "route": "/index.php/evenimente/150-de-ani/sponsori-ai-evenimentului"
+          },
+          {
+            "title": "Galerie",
+            "route": "http://www.youtube.com/watch?v=_0jQ86LPK_c&feature=youtu.be"
+          }
+        ]
+      },
+      {
+        "title": "VIZITA DOMNULUI MINISTRU PRICOPIE",
+        "route": "/index.php/evenimente/vizita-domnului-ministru"
+      },
+      {
+        "title": "VIZITA DOMNULUI MINISTRU CÎMPEANU",
+        "route": "/index.php/evenimente/vizita-domnului-ministru-cimpeanu"
+      },
+      {
+        "title": "6 decembrie 2013",
+        "route": "/index.php/evenimente/6-decembrie-2013"
+      },
+      {
+        "title": "Vizita Principelui Nicolae",
+        "route": "/index.php/evenimente/vizita-principelui-nicolae"
+      },
+      {
+        "title": "PUBLICAŢII",
+        "route": "/index.php/evenimente/meniu-6",
+        "children": [
+          {
+            "title": "Ghid Metodic Club Dezbateri",
+            "route": "/index.php/evenimente/meniu-6/ghid-metodic-club-dezbateri"
+          },
+          {
+            "title": "Ghid_SpeakUp_Ebook",
+            "route": "/index.php/evenimente/meniu-6/ghid-speakup-ebook"
+          },
+          {
+            "title": "Revista VIVAT CNNB",
+            "route": "/index.php/evenimente/meniu-6/revista-vivat-cnnb"
+          },
+          {
+            "title": "Revista de matematică din Brăila TRIDENT",
+            "route": "/index.php/evenimente/meniu-6/revista-de-matematica"
+          },
+          {
+            "title": "Ghid metodic robotică",
+            "route": "/index.php/evenimente/meniu-6/ghid-metodic-robotica"
+          },
+          {
+            "title": "CNNB-istul",
+            "route": "http://www.cnnb.ro",
+            "children": [
+              {
+                "title": "2023 Decembrie",
+                "route": "/index.php/evenimente/meniu-6/2015-10-01-09-40-49/2023-decembrie"
+              },
+              {
+                "title": "2015 Mai",
+                "route": "/index.php/evenimente/meniu-6/2015-10-01-09-40-49/mai-2015"
+              },
+              {
+                "title": "2014 Decembrie",
+                "route": "/index.php/evenimente/meniu-6/2015-10-01-09-40-49/cnnb-istul"
+              }
+            ]
+          },
+          {
+            "title": "CNNB-istu' pentru pici",
+            "route": "/index.php/evenimente/meniu-6/cnnb-istu-pentru-pici"
+          },
+          {
+            "title": "Revista bilingvă",
+            "route": "/index.php/evenimente/meniu-6/revista-bilingva"
+          },
+          {
+            "title": "Zumzăitorii",
+            "route": "/index.php/evenimente/meniu-6/zumzaitorii"
+          },
+          {
+            "title": "Revista în engleză",
+            "route": "/index.php/evenimente/meniu-6/revista-in-engleza",
+            "children": [
+              {
+                "title": "Decembrie 2025",
+                "route": "/index.php/evenimente/meniu-6/revista-in-engleza/decembrie-2025"
+              },
+              {
+                "title": "mai 2014",
+                "route": "/index.php/evenimente/meniu-6/revista-in-engleza/numarul-1"
+              }
+            ]
+          },
+          {
+            "title": "Revista în franceză",
+            "route": "/index.php/evenimente/meniu-6/revista-in-franceza",
+            "children": [
+              {
+                "title": "Numărul 3",
+                "route": "/index.php/evenimente/meniu-6/revista-in-franceza/numarul-3"
+              },
+              {
+                "title": "Numărul 2",
+                "route": "/index.php/evenimente/meniu-6/revista-in-franceza/numarul-2"
+              },
+              {
+                "title": "Numărul 1",
+                "route": "/index.php/evenimente/meniu-6/revista-in-franceza/numarul-1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Arhiva Evenimente",
+        "route": "/index.php/evenimente/arhiva-evenimente"
+      }
+    ]
+  },
+  {
+    "title": "GALERIE",
+    "items": [
+      {
+        "title": "Târg de Crăciun 2023",
+        "route": "/index.php/meniu-7/targ-de-craciun-2023"
+      },
+      {
+        "title": "Târgul de oferte educaționale 2023",
+        "route": "/index.php/meniu-7/targul-de-oferte-educationale"
+      },
+      {
+        "title": "Braila Science Festival",
+        "route": "/index.php/meniu-7/braila-science-festival"
+      },
+      {
+        "title": "Album aniversar 150 ani",
+        "route": "/index.php/meniu-7/album-aniversar-150-ani"
+      },
+      {
+        "title": "ELEVI OLIMPICI",
+        "route": "http://www.cnnb.ro",
+        "children": [
+          {
+            "title": "2016",
+            "route": "/index.php/meniu-7/elevi/2016"
+          },
+          {
+            "title": "2015",
+            "route": "/index.php/meniu-7/elevi/2015"
+          },
+          {
+            "title": "2014",
+            "route": "/index.php/meniu-7/elevi/2014"
+          },
+          {
+            "title": "2013",
+            "route": "/index.php/meniu-7/elevi/2013"
+          }
+        ]
+      },
+      {
+        "title": "ŞCOALĂ",
+        "route": "/index.php/meniu-7/scoala"
+      },
+      {
+        "title": "ELEVI CALIFICAȚI LA NAȚIONALĂ",
+        "route": "/index.php?Itemid=658",
+        "children": [
+          {
+            "title": "2016",
+            "route": "/index.php/meniu-7/calificati-la-nationala/2016"
+          },
+          {
+            "title": "2015",
+            "route": "/index.php/meniu-7/calificati-la-nationala/calificati-la-nationala-2015"
+          },
+          {
+            "title": "2014",
+            "route": "/index.php/meniu-7/calificati-la-nationala/elevi-calificati-la-nationala-2014"
+          },
+          {
+            "title": "2013",
+            "route": "/index.php/meniu-7/calificati-la-nationala/elevi-calificati-la-nationala"
+          }
+        ]
+      },
+      {
+        "title": "Premianții 2013",
+        "route": "/index.php/meniu-7/premiantii-2013"
+      },
+      {
+        "title": "Festivitatea de deschidere",
+        "route": "/index.php/meniu-7/festivitatea-de-deschidere"
+      },
+      {
+        "title": "Ziua arborelui",
+        "route": "/index.php/meniu-7/ziua-arborelui"
+      },
+      {
+        "title": "Concurs robotică 2019",
+        "route": "/index.php/meniu-7/concurs-robotica-2019"
+      },
+      {
+        "title": "Condiții de siguranță epidemiologică",
+        "route": "/index.php/meniu-7/conditii-de-siguranta-epidemiologica"
+      },
+      {
+        "title": "Vizită autor carte",
+        "route": "/index.php/meniu-7/vizita-autor-carte"
+      }
+    ]
+  },
+  {
+    "title": "CONTACT",
+    "items": [
+      {
+        "title": "Date de contact",
+        "route": "/index.php/contact/date-de-contact"
+      },
+      {
+        "title": "Program audiențe",
+        "route": "/index.php/contact/program-audiente"
+      }
+    ]
+  }
+]
